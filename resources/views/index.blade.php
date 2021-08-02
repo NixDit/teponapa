@@ -5,9 +5,9 @@
         <div class="slider-container rev_slider_wrapper" style="height: 750px;">
             <div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1110, 'gridheight': [750,750,750,1250], 'responsiveLevels': [4096,1200,992,500]}">
                 <ul>
-                    <li class="slide-overlay slide-overlay-level-7" data-transition="fade">
+                    <li class="xslide-overlay slide-overlay-level-7" data-transition="fade">
 
-                        <img src="{{ asset('img/demos/digital-agency/slides/slide-digital-agency-2.jpg') }}"  
+                        <img src="{{ asset('img/banners/banner6.jpg') }}"
                             alt=""
                             data-bgposition="center center" 
                             data-bgfit="cover" 
@@ -32,7 +32,7 @@
                             data-paddingtop="['10','10','10','12']"
                             data-paddingbottom="['10','10','10','12']"
                             data-paddingleft="['18','18','18','18']"
-                            data-paddingright="['18','18','18','18']">WE WORK AND WE MAKE</div>
+                            data-paddingright="['18','18','18','18']">REGIÓN CUICATÉCA</div>
 
                         <h1 class="tp-caption tp-caption-overlay-opacity main-label"
                             data-frames='[{"delay":1300,"speed":1000,"sfxcolor":"#212529","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"sfxcolor":"#212529","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
@@ -43,7 +43,7 @@
                             data-paddingtop="['10','10','10','10']"
                             data-paddingbottom="['10','10','10','10']"
                             data-paddingleft="['18','18','18','18']"
-                            data-paddingright="['18','18','18','18']">DESIGNS ROCK STARS</h1>
+                            data-paddingright="['18','18','18','18']">SAN JUAN TEPONAPA</h1>
 
                         <div class="tp-caption d-none d-md-block"
                             data-frames='[{"delay":3000,"speed":500,"frame":"0","from":"opacity:0;x:10%;","to":"opacity:1;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
@@ -57,7 +57,7 @@
                             data-y="center" data-voffset="['65','65','65','95']"
                             data-width="['850','850','850','800']"
                             data-fontsize="['18','18','18','35']"
-                            data-lineheight="['29','29','29','40']">We create amazing solutins for our clients, contact us to learn how we can help.</div>
+                            data-lineheight="['29','29','29','40']">Comunidad bilingue con aproximadamente 200 habitantes</div>
 
 
                         <a class="tp-caption btn btn-outline btn-primary font-weight-bold"
@@ -70,7 +70,7 @@
                             data-paddingleft="['40','40','40','50']"
                             data-paddingright="['40','40','40','50']"
                             data-fontsize="['13','13','13','25']"
-                            data-lineheight="['20','20','20','25']">LEARN MORE</a>
+                            data-lineheight="['20','20','20','25']">LEER MÁS</a>
 
                         <a class="tp-caption btn btn-primary font-weight-bold"
                             href="#"
@@ -82,11 +82,11 @@
                             data-paddingleft="['40','40','40','50']"
                             data-paddingright="['40','40','40','50']"
                             data-fontsize="['13','13','13','25']"
-                            data-lineheight="['20','20','20','25']">GET STARTED NOW <i class="fas fa-arrow-right ms-1"></i></a>
+                            data-lineheight="['20','20','20','25']">DONAR <i class="fas fa-arrow-right ms-1"></i></a>
 
                     </li>
-                    <li class="slide-overlay slide-overlay-level-7" data-transition="fade">
-                        <img src="{{ asset('img/demos/digital-agency/slides/slide-digital-agency-3.jpg') }}"  
+                    <li class="xslide-overlay slide-overlay-level-7" data-transition="fade">
+                        <img src="{{ asset('img/banners/banner5.jpg') }}"  
                             alt=""
                             data-bgposition="center center" 
                             data-bgfit="cover" 
@@ -111,7 +111,7 @@
                             data-paddingtop="['10','10','10','12']"
                             data-paddingbottom="['10','10','10','12']"
                             data-paddingleft="['18','18','18','18']"
-                            data-paddingright="['18','18','18','18']">HELLO, WE CREATE</div>
+                            data-paddingright="['18','18','18','18']">Municipio</div>
 
                         <div class="tp-caption tp-caption-overlay-opacity main-label"
                             data-frames='[{"delay":1300,"speed":1000,"sfxcolor":"#212529","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"sfxcolor":"#212529","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
@@ -121,7 +121,7 @@
                             data-paddingtop="['10','10','10','12']"
                             data-paddingbottom="['10','10','10','12']"
                             data-paddingleft="['18','18','18','18']"
-                            data-paddingright="['18','18','18','18']">INCREDIBLE DESIGNS</div>
+                            data-paddingright="['18','18','18','18']">SANTA MARÍA PÁPALO</div>
 
                         <div class="tp-caption font-weight-light text-color-light ws-normal"
                             data-frames='[{"from":"opacity:0;","speed":300,"to":"o:1;","delay":2000,"split":"chars","splitdelay":0.05,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
@@ -129,7 +129,7 @@
                             data-y="center" data-voffset="['65','65','65','105']"
                             data-width="['750','750','750','750']"
                             data-fontsize="['18','18','18','30']"
-                            data-lineheight="['29','29','29','40']">amazing solutions for our clients, contact us to learn how we can help.</div>
+                            data-lineheight="['29','29','29','40']">Se encuentra a una mediana altura de 1460 metros sobre el nivel del mar</div>
 
                         <a class="tp-caption btn btn-primary font-weight-bold"
                             href="#"
@@ -141,7 +141,7 @@
                             data-paddingleft="['40','40','40','50']"
                             data-paddingright="['40','40','40','50']"
                             data-fontsize="['13','13','13','25']"
-                            data-lineheight="['20','20','20','25']">GET STARTED NOW <i class="fas fa-arrow-right ms-1"></i></a>
+                            data-lineheight="['20','20','20','25']">LEER MÁS <i class="fas fa-arrow-right ms-1"></i></a>
 
                     </li>
                 </ul>
@@ -163,7 +163,7 @@
                                             </span>
                                         </span>
                                     </span>									
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Strategy</p>
+                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Gastronomía</p>
                                 </a>
                             </li>
                             <li class="nav-item">
@@ -175,7 +175,7 @@
                                             </span>
                                         </span>
                                     </span>									
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Creative</p>
+                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Religión</p>
                                 </a>
                             </li>
                             <li class="nav-item">
@@ -187,7 +187,7 @@
                                             </span>
                                         </span>
                                     </span>									
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Development</p>
+                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Tradiciones</p>
                                 </a>
                             </li>
                             <li class="nav-item">
@@ -199,7 +199,7 @@
                                             </span>
                                         </span>
                                     </span>									
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Marketing</p>
+                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Proyectos</p>
                                 </a>
                             </li>
                         </ul>
@@ -211,7 +211,7 @@
                             </div>
                             <div class="tab-pane" id="tabsNavigationSimpleIcons2">
                                 <div class="text-center">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+                                    <p>xLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
                                 </div>
                             </div>
                             <div class="tab-pane" id="tabsNavigationSimpleIcons3">
@@ -240,13 +240,13 @@
             <div class="container">
                 <div class="row py-3 mb-2">
                     <div class="col-lg-6 pe-5 appear-animation" data-appear-animation="fadeInRightShorter">
-                        <h2 class="font-weight-extra-bold text-color-dark text-6 mb-0">Who We Are</h2>
-                        <p class="font-weight-normal opacity-8 text-4 mb-3">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                        <h2 class="font-weight-extra-bold text-color-dark text-6 mb-0">Teponapa</h2>
+                        <p class="font-weight-normal opacity-8 text-4 mb-3">Teponapa se localiza en el Municipio de Santa María Pápalo del estado de Oaxaca, México</p>
                         <div class="divider divider-primary divider-small divider-small-left">
                             <hr class="w-25">
                         </div>
-                        <p class="opacity-8 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enikklam iconsectetur adipiscing elit.</p>
-                        <p class="opacity-8 mb-3">Phasellus blandit massa enim. Nullam id varius elit. blandit massa enim varius blandit massa enimariusi d varius elit.</p>
+                        <p class="opacity-8 mb-4">La población total de Teponapa es de 187 personas, 92 son masculinos y 95 femeninas.</p>
+                        <p class="opacity-8 mb-3">En Teponapa hay un total de 46 hogares. De estos 46 viviendas, 42 tienen piso de tierra y unos 8 consisten de una sola habitación. 46 de todas las viviendas tienen instalaciones sanitarias, 4 son conectadas al servicio público, 45 tienen acceso a la luz eléctrica. La estructura económica permite a 0 viviendas tener una computadora, a 0 tener una lavadora y 1 tienen una televisisón.</p>
 
                         <a class="text-dark font-weight-bold text-2" href="demo-digital-agency-about.html">VIEW MORE<i class="fas fa-chevron-right text-2 ps-2"></i></a>
                     </div>
@@ -263,10 +263,10 @@
                             <div class="col-sm-6">
                                 <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">
                                     <div class="feature-box-icon">
-                                        <i class="icon-screen-tablet icons"></i>
+                                        <i class="icon-people icons"></i>
                                     </div>
                                     <div class="feature-box-info">
-                                        <p class="opacity-9 mb-0">Mobile Apps</p>
+                                        <p class="opacity-9 mb-0">187 personas</p>
                                     </div>
                                 </div>
                                 <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">

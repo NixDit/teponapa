@@ -19,27 +19,27 @@
                                     <ul class="nav nav-pills" id="mainNav">
                                         <li>
                                             <a class="nav-link active" href="demo-digital-agency.html">
-                                                Home
+                                                Inicio
                                             </a>
                                         </li>
                                         <li>
                                             <a class="nav-link" href="demo-digital-agency-about.html">
-                                                About
+                                                Acerca de
                                             </a>
                                         </li>
                                         <li>
                                             <a class="nav-link" href="demo-digital-agency-services.html">
-                                                Services
+                                                Servicios
                                             </a>
                                         </li>
                                         <li>
                                             <a class="nav-link" href="demo-digital-agency-work.html">
-                                                Work
+                                                Proyectos
                                             </a>
                                         </li>
                                         <li>
                                             <a class="nav-link" href="demo-digital-agency-contact.html">
-                                                Contact
+                                                Contacto
                                             </a>
                                         </li>
                                     </ul>

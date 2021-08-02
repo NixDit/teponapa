@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<!-- YouTube -->
+		<script data-ad-client="ca-pub-2174668138842999" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		
 		<!-- Basic -->
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo Digital Agency | Porto - Responsive HTML5 Template</title>	
+		<title>Teponapa | Región Cuicateca</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Porto - Responsive HTML5 Template">
+		<meta name="description" content="Teponapa, Santa María Pápalo">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
