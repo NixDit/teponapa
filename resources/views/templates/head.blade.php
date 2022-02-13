@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 	<head>
 		<!-- YouTube -->
 		<script data-ad-client="ca-pub-2174668138842999" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		
+
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Teponapa | Región Cuicateca</title>	
+		<title>Teponapa | Región Cuicateca</title>
 
-		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Teponapa, Santa María Pápalo">
+		<meta name="keywords" content="Teponapa, San Juan Teponapa, Cuicateca, Santa María Pápalo" />
+		<meta name="description" content="Teponapa, Santa María Pápalo, comunidad indíguena cuicateca de aproximadamente 200 habitantes">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
@@ -27,6 +27,7 @@
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="{{ asset('vendor/bootstrap/css/bootstrap.min.css?v='.rand()) }}">
 		<link rel="stylesheet" href="{{ asset('vendor/bootstrap/css/fontawesome-free/css/all.min.css?v='.rand()) }}">
+        <link rel="stylesheet" href="{{ asset('vendor/fontawesome-free/css/all.min.css') }}">
 		<link rel="stylesheet" href="{{ asset('vendor/animate/animate.compat.css?v='.rand()) }}">
 		<link rel="stylesheet" href="{{ asset('vendor/simple-line-icons/css/simple-line-icons.min.css?v='.rand()) }}">
 		<link rel="stylesheet" href="{{ asset('vendor/owl.carousel/assets/owl.carousel.min.css?v='.rand()) }}">
@@ -52,6 +53,8 @@
 
 		<!-- Theme Custom CSS -->
 		<link rel="stylesheet" href="{{ asset('css/custom.css?v='.rand()) }}">
+
+
 
 		<!-- Head Libs -->
 		<script src="{{ asset('vendor/modernizr/modernizr.min.js?v='.rand()) }}"></script>

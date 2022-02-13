@@ -1,0 +1,31 @@
+.img-dark{
+    /* filter: brightness(0.5); */
+    transition: all 0.2s ease-in-out;
+}
+.img-dark:hover{
+    filter: brightness(1);
+}
+.service_content{
+    position: relative;
+}
+.service_content i{
+    transition: .7s;
+}
+.services_text{
+    background-color: #e1e1e1;
+    z-index: -1;
+    padding: 1rem;
+    position: absolute;
+    transition: .7s;
+    opacity: 0;
+    box-sizing: content-box;
+    height: auto;
+}
+.service_content:hover .services_text{
+    z-index: 99999;
+    transform: translateY(-70%);
+    opacity: 1;
+}
+.service_content:hover i{
+    transform: translateY(-60%);
+}

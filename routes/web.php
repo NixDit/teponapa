@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\GalleryController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +18,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('lang/{lang}', [LanguajeController::class,'changeLanguaje'])->where([
+    'lang' => 'en|es'
+])->name('setLanguaje');
+
+Route::get('/contacto',[ContactController::class,'index'])->name('contact');
+
+Route::get('/contacto',[ContactController::class,'index'])->name('contact');
+
+Route::get('/galeria',[GalleryController::class,'index'])->name('galeria');
