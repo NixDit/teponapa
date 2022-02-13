@@ -1,4 +1,4 @@
-<header id="header" class="header-transparent header-semi-transparent header-semi-transparent-dark header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+<header id="header" xclass="header-transparent header-semi-transparent header-semi-transparent-dark header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
     <div class="header-body border-top-0 bg-dark box-shadow-none">
         <div class="header-container container">
             <div class="header-row">
@@ -42,26 +42,6 @@
                                                 Contacto
                                             </a>
                                         </li>
-                                        {{-- Inicio Cambio de idioma --}}
-                                        {{-- <li class="nav-item nav-item-borders py-2 pr-0 dropdown text-center">
-                                            <span class="text-uppercase">{{ app()->getLocale() }}</span>
-                                            @if(app()->getLocale() == 'es')
-                                                <a class="nav-link" href="javascript:void(0)" role="button" id="dropdownLanguage" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    <img src="{{ asset('images/blank.gif') }}" class="flag flag-mx" alt="English" /> Español
-                                                    <i class="fas fa-angle-down"></i>
-                                                </a>
-                                            @else
-                                                <a class="nav-link" href="javascript:void(0)" role="button" id="dropdownLanguage" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                    <img src="{{ asset('images/blank.gif') }}" class="flag flag-us" alt="English" /> English
-                                                    <i class="fas fa-angle-down"></i>
-                                                </a>
-                                            @endif
-                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownLanguage">
-                                                <a class="dropdown-item" href="{{ route('setLanguaje','es') }}"><img src="{{ asset('images/blank.gif') }}" class="flag flag-mx" alt="Spanish" /> Español</a>
-                                                <a class="dropdown-item" href="{{ route('setLanguaje','en') }}"><img src="{{ asset('images/blank.gif') }}" class="flag flag-us" alt="English" /> English</a>
-                                            </div>
-                                        </li> --}}
-                                        {{-- Fin Cambio de idioma --}}
                                     </ul>
                                 </nav>
                             </div>
