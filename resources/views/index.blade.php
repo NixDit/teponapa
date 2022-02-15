@@ -255,12 +255,12 @@
                         <p class="opacity-8 mb-4">La población total de Teponapa es de 187 personas, 92 son masculinos y 95 femeninas.</p>
                         <p class="opacity-8 mb-3">En Teponapa hay un total de 46 hogares. De estos 46 viviendas, 42 tienen piso de tierra y unos 8 consisten de una sola habitación. 46 de todas las viviendas tienen instalaciones sanitarias, 4 son conectadas al servicio público, 45 tienen acceso a la luz eléctrica. La estructura económica permite a 0 viviendas tener una computadora, a 0 tener una lavadora y 1 tienen una televisisón.</p>
 
-                        <a class="text-dark font-weight-bold text-2" href="demo-digital-agency-about.html">VIEW MORE<i class="fas fa-chevron-right text-2 ps-2"></i></a>
+                        <a class="text-dark font-weight-bold text-2" href="">VER MÁS<i class="fas fa-chevron-right text-2 ps-2"></i></a>
                     </div>
                     <div class="col-lg-6 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
                         <div class="row">
                             <div class="col">
-                                <p class="font-weight-bold text-color-dark text-4 mt-4 pt-3">Main Reasons to Hire Us</p>
+                                <p class="font-weight-bold text-color-dark text-4 mt-4 pt-3">Más acerca de Teponapa</p>
                                 <div class="divider divider-primary divider-small divider-small-left">
                                     <hr class="w-25">
                                 </div>
@@ -276,48 +276,48 @@
                                         <p class="opacity-9 mb-0">187 personas</p>
                                     </div>
                                 </div>
-                                <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
+                                {{-- <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
                                     <div class="feature-box-icon">
                                         <i class="icon-layers icons"></i>
                                     </div>
                                     <div class="feature-box-info">
                                         <p class="opacity-9 mb-0">Creative Websites</p>
                                     </div>
-                                </div>
-                                <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
+                                </div> --}}
+                                {{-- <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
                                     <div class="feature-box-icon">
                                         <i class="icon-magnifier icons"></i>
                                     </div>
                                     <div class="feature-box-info">
                                         <p class="opacity-9 mb-0">SEO Optimization</p>
                                     </div>
-                                </div>
+                                </div> --}}
                             </div>
                             <div class="col-sm-6">
-                                <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
+                                {{-- <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
                                     <div class="feature-box-icon">
                                         <i class="icon-screen-desktop icons"></i>
                                     </div>
                                     <div class="feature-box-info">
                                         <p class="opacity-9 mb-0">Brand Solutions</p>
                                     </div>
-                                </div>
-                                <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
+                                </div> --}}
+                                {{-- <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
                                     <div class="feature-box-icon">
                                         <i class="icon-doc icons"></i>
                                     </div>
                                     <div class="feature-box-info">
                                         <p class="opacity-9 mb-0">HTML5 / CSS3 / JS</p>
                                     </div>
-                                </div>
-                                <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600">
+                                </div> --}}
+                                {{-- <div class="feature-box align-items-center mb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600">
                                     <div class="feature-box-icon">
                                         <i class="icon-user icons"></i>
                                     </div>
                                     <div class="feature-box-info">
                                         <p class="opacity-9 mb-0">Icons</p>
                                     </div>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
@@ -666,13 +666,13 @@
                 <div class="row">
                     <div class="col-md-9 col-lg-9">
                         <div class="call-to-action-content">
-                            <h2 class="font-weight-normal text-6 mb-0">Teponapa <strong class="font-weight-extra-bold">everything</strong> you need to create an <strong class="font-weight-extra-bold">awesome</strong> website!</h2>
-                            <p class="mb-0">The best HTML template for your new website.</p>
+                            <h2 class="font-weight-normal text-6 mb-0">San Juan <strong class="font-weight-extra-bold">Teponapa</strong> es una localidad del municipio de <strong class="font-weight-extra-bold">Santa María Pápalo, </strong> Oaxaca</h2>
+                            <p class="mb-0">El mejor lugar para visitar paisajes.</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-lg-3">
                         <div class="call-to-action-btn">
-                            <a href="http://themeforest.net/item/porto-responsive-html5-template/4106987" target="_blank" class="btn btn-outline btn-dark text-1 font-weight-semibold text-uppercase px-5 btn-py-2">Learn More</a>
+                            <a href="" target="_blank" class="btn btn-outline btn-dark text-1 font-weight-semibold text-uppercase px-5 btn-py-2">Leer más</a>
                         </div>
                     </div>
                 </div>

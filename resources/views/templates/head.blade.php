@@ -11,11 +11,11 @@
 		<title>Teponapa | Región Cuicateca</title>
 
 		<meta name="keywords" content="Teponapa, San Juan Teponapa, Cuicateca, Santa María Pápalo" />
-		<meta name="description" content="Teponapa, Santa María Pápalo, comunidad indíguena cuicateca de aproximadamente 200 habitantes">
+		<meta name="description" content=" San Juan Teponapa, Santa María Pápalo, comunidad indíguena cuicateca de aproximadamente 200 habitantes. Es una localidad del municipio de Santa María Pápalo, Oaxaca.">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="img/favicon/favicon.png" type="image/x-icon" />
 		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 
 		<!-- Mobile Metas -->

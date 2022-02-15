@@ -34,7 +34,7 @@
         <div class="row py-5">
             <div class="col-md-4 d-flex justify-content-center justify-content-md-start mb-4 mb-lg-0">
                 <a href="/" class="logo pe-0 pe-lg-3 ps-3 ps-md-0">
-                    <img alt="Porto Website Template" src="img/logo-default-slim-dark.png" height="32">
+                    <img alt="Porto Website Template" src="img/logo/logo-blanco-teponapa.png" height="32">
                 </a>
             </div>
             <div class="col-md-8 d-flex justify-content-center justify-content-md-end mb-4 mb-lg-0">
