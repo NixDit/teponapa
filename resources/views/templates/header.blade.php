@@ -6,7 +6,7 @@
                     <div class="header-row">
                         <div class="header-logo">
                             <a href="/">
-                                <img alt="Porto" xwidth="82" height="40" src="img/logo/logo-blanco-teponapa.png">
+                                <img alt="Logo Teponapa Principal" xwidth="82" height="40" src="img/logo/logo-blanco-teponapa.png">
                             </a>
                         </div>
                     </div>

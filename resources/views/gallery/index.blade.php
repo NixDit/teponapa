@@ -26,7 +26,7 @@
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
                                                 {{-- Aqui debe medir 700x700 --}}
-                                                <img src="img/galeria/galeria1.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria1.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -38,7 +38,7 @@
                                     <a href="img/blog/square/blog-16.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria2.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria2.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -50,7 +50,7 @@
                                     <a href="img/blog/square/blog-20.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria3.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria3.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -62,7 +62,7 @@
                                     <a href="img/blog/square/blog-23.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria4.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria4.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -74,7 +74,7 @@
                                     <a href="img/galeria/5.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria5.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria5.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -86,7 +86,7 @@
                                     <a href="img/galeria/6.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria6.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria6.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -164,7 +164,7 @@
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
                                                 {{-- Aqui debe medir 700x700 --}}
-                                                <img src="img/galeria/galeria1.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria1.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -176,7 +176,7 @@
                                     <a href="img/blog/square/blog-16.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria2.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria2.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -188,7 +188,7 @@
                                     <a href="img/blog/square/blog-20.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria3.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria3.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -200,7 +200,7 @@
                                     <a href="img/blog/square/blog-23.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria4.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria4.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -212,7 +212,7 @@
                                     <a href="img/galeria/5.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria5.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria5.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>
@@ -224,7 +224,7 @@
                                     <a href="img/galeria/6.jpg">
                                         <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                             <span class="thumb-info-wrapper">
-                                                <img src="img/galeria/galeria6.jpg" class="img-fluid" alt="">
+                                                <img src="img/galeria/galeria6.jpg" class="img-fluid" alt="Teponapa">
                                                 <span class="thumb-info-action">
                                                     <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                 </span>

@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CDET2B33H8"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-CDET2B33H8');
+        </script>
+        <!-- Fin Google tag (gtag.js) -->
+
 		<!-- YouTube -->
 		<script data-ad-client="ca-pub-2174668138842999" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
