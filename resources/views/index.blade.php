@@ -1,6 +1,6 @@
-
-@include('templates.head')
-@include('templates.header')
+@extends('templates.layout')
+@section('title','Teponapa Santa María Pápalo | Inicio')
+@section('content')
     <div role="main" class="main">
         <div class="slider-container rev_slider_wrapper" style="height: 750px;">
             <div id="revolutionSlider" class="slider rev_slider" data-version="5.4.8" data-plugin-revolution-slider data-plugin-options="{'delay': 9000, 'gridwidth': 1110, 'gridheight': [750,750,750,1250], 'responsiveLevels': [4096,1200,992,500]}">
@@ -680,5 +680,4 @@
         </section>
 
     </div>
-@include('templates.footer')
-@include('templates.foot')
+@endsection

@@ -42,6 +42,11 @@
                                                 Contacto
                                             </a>
                                         </li>
+                                        <li>
+                                            <a class="nav-link" href="{{ route('blog') }}">
+                                                Blog
+                                            </a>
+                                        </li>
                                         {{-- Inicio Cambio de idioma --}}
                                         {{-- <li class="nav-item nav-item-borders py-2 pr-0 dropdown text-center">
                                             <span class="text-uppercase">{{ app()->getLocale() }}</span>

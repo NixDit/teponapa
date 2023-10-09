@@ -42,6 +42,11 @@
                                                 Contacto
                                             </a>
                                         </li>
+                                        <li>
+                                            <a class="nav-link" href="{{ route('blog') }}">
+                                                Blog
+                                            </a>
+                                        </li>
                                     </ul>
                                 </nav>
                             </div>

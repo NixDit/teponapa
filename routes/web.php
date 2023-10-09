@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BlogController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\GalleryController;
 
@@ -28,3 +29,5 @@ Route::get('/contacto',[ContactController::class,'index'])->name('contact');
 Route::get('/contacto',[ContactController::class,'index'])->name('contact');
 
 Route::get('/galeria',[GalleryController::class,'index'])->name('galeria');
+
+Route::get('/blog',[BlogController::class,'index'])->name('blog');

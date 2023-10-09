@@ -1,5 +1,6 @@
-@include('templates.head')
-@include('templates.header2')
+@extends('templates.layout2')
+@section('title','Contacto | Teponapa')
+@section('content')
 <br>
 <section class="container container-lg py-12 my-12" >
     <div class="container">
@@ -65,8 +66,7 @@
         </div>
     </div>
 </section>
-@include('templates.footer')
-@include('templates.foot')
+@endsection
 
 
 
