@@ -1,5 +1,5 @@
 @extends('templates.layout')
-@section('title','Teponapa Santa María Pápalo | Inicio')
+@section('title','Teponapa - Santa María Pápalo | Oaxaca | (Oficial)')
 @section('content')
     <div role="main" class="main">
         <div class="slider-container rev_slider_wrapper" style="height: 750px;">
