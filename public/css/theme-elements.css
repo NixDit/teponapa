@@ -11225,7 +11225,7 @@ body.page-transition-active {
 	opacity: 0 !important;
 }
 
-/* 
+/*
 Image 360º Viewer
 Credits: Codyhouse (https://codyhouse.co/gem/360-degrees-product-viewer)
 */
@@ -17193,7 +17193,7 @@ small, .small {
 
 /* Paragraphs */
 p {
-	color: #777;
+	color: #000;
 	line-height: 26px;
 	margin: 0 0 20px;
 }

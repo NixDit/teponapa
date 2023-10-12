@@ -30,36 +30,48 @@
 </script>
 
 <footer id="footer">
-    <div class="container">
-        <div class="row py-5">
-            <div class="col-md-4 d-flex justify-content-center justify-content-md-start mb-4 mb-lg-0">
-                <a href="/" class="logo pe-0 pe-lg-3 ps-3 ps-md-0">
-                    <img alt="Logo Teponapa" src="img/logo/logo-blanco-teponapa.png" height="32">
-                </a>
-            </div>
-            <div class="col-md-8 d-flex justify-content-center justify-content-md-end mb-4 mb-lg-0">
-                <div class="row">
-                    <div class="col-md-12 mb-3 mb-md-0">
-                        <div class="ms-4 text-center text-md-end">
-                            <h5 class="text-3 mb-0 text-color-light">TEPONAPA</h5>
-                            <p class="text-4 mb-0"><i class="fab fa-whatsapp text-color-primary top-1 p-relative"></i><span class="ps-1">(951) 465-7890</span></p>
+    {{-- <div class="footer-copyright">
+        <div class="container">
+            <div class="row py-5">
+                <div class="col-md-4 d-flex justify-content-center justify-content-md-start mb-4 mb-lg-0">
+                    <a href="/" class="logo pe-0 pe-lg-3 ps-3 ps-md-0">
+                        <img alt="Logo Teponapa" src="img/logo/logo-blanco-teponapa.png" height="32">
+                    </a>
+                </div>
+                <div class="col-md-8 d-flex justify-content-center justify-content-md-end mb-4 mb-lg-0">
+                    <div class="row">
+                        <div class="col-md-12 mb-3 mb-md-0">
+                            <div class="ms-4 text-center text-md-end">
+                                <h5 class="text-3 mb-0 text-color-light">TEPONAPA</h5>
+                                <p class="text-4 mb-0"><i class="fab fa-whatsapp text-color-primary top-1 p-relative"></i><span class="ps-1">(951) 465-7890</span></p>
+                            </div>
                         </div>
                     </div>
-                    {{-- <div class="col-md-6">
-                        <div class="ms-3 text-center text-md-end">
-                            <h5 class="text-3 mb-0 text-color-light">LOS ANGELES</h5>
-                            <p class="text-4 mb-0"><i class="fab fa-whatsapp text-color-primary top-1 p-relative"></i><span class="ps-1">(123) 465-7890</span></p>
-                        </div>
-                    </div>
-                    --}}
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
-    <div class="footer-copyright footer-copyright-style-2">
+
+    <div class="footer-copyright">
+
         <div class="container py-2">
             <div class="row py-4">
+                <div class="col-md-4 d-flex justify-content-center justify-content-md-start mb-4 mb-lg-0">
+                    <a href="/" class="logo pe-0 pe-lg-3 ps-3 ps-md-0">
+                        <img alt="Logo Teponapa" src="img/logo/logo-blanco-teponapa.png" height="32">
+                    </a>
+                </div>
+                <div class="col-md-8 d-flex justify-content-center justify-content-md-end mb-4 mb-lg-0">
+                    <div class="row">
+                        <div class="col-md-12 mb-3 mb-md-0">
+                            <div class="ms-4 text-center text-md-end">
+                                <h5 class="text-3 mb-0 text-color-light">TEPONAPA</h5>
+                                <p class="text-4 mb-0"><i class="fab fa-whatsapp text-color-primary top-1 p-relative"></i><span class="ps-1">(951) 465-7890</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-4 d-flex align-items-center justify-content-center justify-content-md-start mb-2 mb-lg-0">
                     <p>© Teponapa Copyright 2023. Todos los derechos reservados.</p>
                 </div>
@@ -73,14 +85,13 @@
                     </ul>
                 </div>
             </div>
-
         </div>
         <div class="footer-copyright">
             <div class="container py-2">
-                <div class="row py-4">
+                <div class="row py-1">
                     <div class="col text-center">
                         <a href="https://www.nixdit.com/" target="_blank" class="logo pr-0 pr-lg-3">
-                            <img alt="Logo Teponapa" src="{{ asset('img/logos/logo-footer.png') }}" class="opacity-5" height="33">
+                            <img title="Logo Nix Diseño Innovación y Tecnología" alt="Logo Nix Diseño Innovación y Tecnología" src="{{ asset('img/logos/logo-footer.png') }}" class="opacity-5" height="33">
                         </a>
                         <div class="col text-center">
                         <p>Sitio desarrollado por NIX Diseño, Innovación y Tecnología.</p>

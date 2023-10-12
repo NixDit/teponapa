@@ -23,7 +23,7 @@
         <title>@yield('title', 'Teponapa')</title>
 
 		<meta name="keywords" content="Teponapa, San Juan Teponapa, Cuicateca, Santa María Pápalo" />
-		<meta name="description" content=" San Juan Teponapa, Santa María Pápalo, comunidad indíguena cuicateca de aproximadamente 200 habitantes. Es una localidad del municipio de Santa María Pápalo, Oaxaca.">
+		<meta name="description" content="Teponapa (San Juan Teponapa), Santa María Pápalo, Oaxaca. Comunidad indíguena cuicateca de aproximadamente 200 habitantes.">
 		<meta name="author" content="https://teponapa.com/">
         <link rel="canonical" href="https://teponapa.com/">
         <meta property="og:locale" content="es_MX">

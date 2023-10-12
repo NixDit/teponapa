@@ -48,7 +48,7 @@
                         <div class="tp-caption d-none d-md-block"
                             data-frames='[{"delay":3000,"speed":500,"frame":"0","from":"opacity:0;x:10%;","to":"opacity:1;x:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
                             data-x="left" data-hoffset="['330','360','360','135']"
-                            data-y="center" data-voffset="['30','30','30','-62']"><img src="{{ asset('img/slides/slide-white-line.png') }}" alt=""></div>
+                            data-y="center" data-voffset="['30','30','30','-62']"><img src="{{ asset('img/slides/slide-white-line.png') }}" alt="Teponapa"></div>
 
 
                         <div class="tp-caption font-weight-light text-color-light ws-normal"
@@ -87,7 +87,8 @@
                     </li>
                     <li class="xslide-overlay slide-overlay-level-7" data-transition="fade">
                         <img src="{{ asset('img/banners/banner5.jpg') }}"
-                            alt=""
+                            alt="Teponapa"
+                            title="Teponapa"
                             data-bgposition="center center"
                             data-bgfit="cover"
                             data-bgrepeat="no-repeat"
@@ -148,100 +149,103 @@
             </div>
         </div>
 
-        <div class="container py-4 my-5">
-            <div class="row justify-content-center mb-4">
-                <div class="col-md-12 col-lg-10">
+        <section class="section section-height-3 border-top-0 m-0">
+            <div class="container py-4 my-5">
+                <div class="row justify-content-center mb-4">
+                    <div class="col-md-12 col-lg-10">
 
-                    <div class="tabs tabs-bottom tabs-center tabs-simple custom-tabs-style-1 mt-2 mb-3">
-                        <ul class="nav nav-tabs mb-3">
-                            <li class="nav-item">
-                                <a class="nav-link" href="#tabsNavigationSimpleIcons1" data-bs-toggle="tab">
-                                    <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
-                                        <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
-                                            <span class="box-content p-0 m-0">
-                                                <i class="icon-featured icon-bulb icons"></i>
+                        <div class="tabs tabs-bottom tabs-center tabs-simple custom-tabs-style-1 mt-2 mb-3">
+                            <ul class="nav nav-tabs mb-3">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tabsNavigationSimpleIcons1" data-bs-toggle="tab">
+                                        <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
+                                            <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
+                                                <span class="box-content p-0 m-0">
+                                                    <i class="icon-featured icon-bulb icons"></i>
+                                                </span>
                                             </span>
                                         </span>
-                                    </span>
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Ecosistema</p>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#tabsNavigationSimpleIcons2" data-bs-toggle="tab">
-                                    <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
-                                        <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
-                                            <span class="box-content p-0 m-0">
-                                                <i class="icon-featured icon-mustache icons"></i>
+                                        <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Ecosistema</p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tabsNavigationSimpleIcons2" data-bs-toggle="tab">
+                                        <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
+                                            <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
+                                                <span class="box-content p-0 m-0">
+                                                    <i class="icon-featured icon-mustache icons"></i>
+                                                </span>
                                             </span>
                                         </span>
-                                    </span>
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Fiestas y tradiciones</p>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#tabsNavigationSimpleIcons3" data-bs-toggle="tab">
-                                    <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
-                                        <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
-                                            <span class="box-content p-0 m-0">
-                                                <i class="icon-featured icon-puzzle icons"></i>
+                                        <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Fiestas y tradiciones</p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tabsNavigationSimpleIcons3" data-bs-toggle="tab">
+                                        <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
+                                            <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
+                                                <span class="box-content p-0 m-0">
+                                                    <i class="icon-featured icon-puzzle icons"></i>
+                                                </span>
                                             </span>
                                         </span>
-                                    </span>
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Gastronomía</p>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#tabsNavigationSimpleIcons4" data-bs-toggle="tab">
-                                    <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
-                                        <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
-                                            <span class="box-content p-0 m-0">
-                                                <i class="icon-featured icon-rocket icons"></i>
+                                        <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Gastronomía</p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#tabsNavigationSimpleIcons4" data-bs-toggle="tab">
+                                        <span class="featured-boxes featured-boxes-style-6 p-0 m-0">
+                                            <span class="featured-box featured-box-primary featured-box-effect-6 p-0 m-0">
+                                                <span class="box-content p-0 m-0">
+                                                    <i class="icon-featured icon-rocket icons"></i>
+                                                </span>
                                             </span>
                                         </span>
-                                    </span>
-                                    <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Campo</p>
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="tab-content">
-                            <div class="tab-pane active" id="tabsNavigationSimpleIcons1">
-                                <div class="text-center">
-                                    <p>
-                                        <b>Flora</b><br>
-                                        La población es boscosa, se pueden encontrar encinos, pinos, pinabetes, entre muchos más <br>
-                                        <b>Fauna</b><br>
-                                        En los campos y en el bosque como fauna podemos encontrar venados, ardillas, temazates, tejones, ardillas, coyotes, tigrillos, jabalís, tlacuaches, zorrillos, serpientes y diferentes tipos de aves silvestres. <br>
-                                        <b>Frutas y verduras</b><br>
-                                        Dentro del pueblo y en los campos se puede encontrar variedad de frutas, como: naranja, lima, zapote negro, mamey, guayaba, plátano, nispero, mango, aguacate, fresa, granada, entre muchos más.
-                                    </p>
+                                        <p class="text-color-dark font-weight-bold mb-0 pt-2 text-2 pb-0">Campo</p>
+                                    </a>
+                                </li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane active" id="tabsNavigationSimpleIcons1">
+                                    <div class="text-center">
+                                        <p>
+                                            <b>Flora</b><br>
+                                            La población es boscosa, se pueden encontrar encinos, pinos, pinabetes, entre muchos más <br>
+                                            <b>Fauna</b><br>
+                                            En los campos y en el bosque como fauna podemos encontrar venados, ardillas, temazates, tejones, ardillas, coyotes, tigrillos, jabalís, tlacuaches, zorrillos, serpientes y diferentes tipos de aves silvestres. <br>
+                                            <b>Frutas y verduras</b><br>
+                                            Dentro del pueblo y en los campos se puede encontrar variedad de frutas, como: naranja, lima, zapote negro, mamey, guayaba, plátano, nispero, mango, aguacate, fresa, granada, entre muchos más.
+                                        </p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="tab-pane" id="tabsNavigationSimpleIcons2">
-                                <div class="text-center">
-                                    <p>Se celebra el día 8 de marzo en honor a San Juan de Dios. Se realizan procesiones junto con la banda de música.</p>
+                                <div class="tab-pane" id="tabsNavigationSimpleIcons2">
+                                    <div class="text-center">
+                                        <p>Se celebra el día 8 de marzo en honor a San Juan de Dios. Se realizan procesiones junto con la banda de música.</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="tab-pane" id="tabsNavigationSimpleIcons3">
-                                <div class="text-center">
-                                    <p>Nuestra comida típica son los tamales de frijol envuelto en hojos de milpa, mole de olla, mole de hongos, empanadas de flor de calabaza sin que falten las bebidas entre las que destaca el pulque, aguardiente, el chingre y el tepache de caña de azucar</p>
+                                <div class="tab-pane" id="tabsNavigationSimpleIcons3">
+                                    <div class="text-center">
+                                        <p>Nuestra comida típica son los tamales de frijol envuelto en hojos de milpa, mole de olla, mole de hongos, empanadas de flor de calabaza sin que falten las bebidas entre las que destaca el pulque, aguardiente, el chingre y el tepache de caña de azucar</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="tab-pane" id="tabsNavigationSimpleIcons4">
-                                <div class="text-center">
-                                    <p>Se dedican al cultivo y cosecha de maíz, frijol, calabaza, café, plátano.</p>
+                                <div class="tab-pane" id="tabsNavigationSimpleIcons4">
+                                    <div class="text-center">
+                                        <p>Se dedican al cultivo y cosecha de maíz, frijol, calabaza, café, plátano.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
 
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col text-center">
+                        <a class="btn btn-outline btn-primary text-1 font-weight-semibold text-uppercase px-5 btn-py-2 mb-3" href="">Leer más</a>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col text-center">
-                    <a class="btn btn-outline btn-primary text-1 font-weight-semibold text-uppercase px-5 btn-py-2 mb-3" href="">Leer más</a>
-                </div>
-            </div>
-        </div>
+        </section>
+
 
         <section class="section section-height-3 bg-color-grey-scale-1 border-top-0 m-0">
             <div class="container">
@@ -325,6 +329,8 @@
             </div>
         </section>
 
+        <div id="ww_a231e880384e8" v='1.3' loc='id' a='{"t":"responsive","lang":"es","sl_lpl":1,"ids":["wl12273"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"#FFFFFF","cl_font":"#000000","cl_cloud":"#d4d4d4","cl_persp":"#2196F3","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722","cl_odd":"#0000000a"}'><a href="https://sharpweather.com/es/widgets/" id="ww_a231e880384e8_u" target="_blank">Widgets tiempo</a></div><script async src="https://app2.weatherwidget.org/js/?id=ww_a231e880384e8"></script>
+
         <div class="container" style="min-height: 500px;">
             <div class="row justify-content-center pt-4 pb-2 mt-5 mb-4">
                 <div class="col-md-8 col-lg-6 text-center appear-animation" data-appear-animation="fadeInUpShorter">
@@ -353,7 +359,7 @@
                                     </div>
                                 </div>
                                 <a href="#">
-                                    <img alt="" class="img-fluid rounded-0" src="{{ asset('img/previews/areas/recuerdo1.jpg') }}">
+                                    <img alt="Teponapa" title="Teponapa" class="img-fluid rounded-0" src="{{ asset('img/previews/areas/recuerdo1.jpg') }}">
                                 </a>
                             </div>
                             <div>
@@ -370,7 +376,7 @@
                                     </div>
                                 </div>
                                 <a href="#">
-                                    <img alt="" class="img-fluid rounded-0" src="{{ asset('img/previews/areas/recuerdo2.jpg') }}">
+                                    <img alt="Teponapa" title="Teponapa" class="img-fluid rounded-0" src="{{ asset('img/previews/areas/recuerdo2.jpg') }}">
                                 </a>
                             </div>
                         </div>
@@ -500,7 +506,7 @@
                                                 <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                                     <span class="thumb-info-wrapper">
                                                         {{-- Aqui debe medir 700x700 --}}
-                                                        <img src="img/galeria/galeria1.jpg" class="img-fluid" alt="">
+                                                        <img src="img/galeria/galeria1.jpg" class="img-fluid" alt="Teponapa" title="Teponapa" >
                                                         <span class="thumb-info-action">
                                                             <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                         </span>
@@ -512,7 +518,7 @@
                                             <a href="img/blog/square/blog-16.jpg">
                                                 <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                                     <span class="thumb-info-wrapper">
-                                                        <img src="img/galeria/galeria2.jpg" class="img-fluid" alt="">
+                                                        <img src="img/galeria/galeria2.jpg" class="img-fluid" alt="Teponapa" title="Teponapa" >
                                                         <span class="thumb-info-action">
                                                             <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                         </span>
@@ -524,7 +530,7 @@
                                             <a href="img/blog/square/blog-20.jpg">
                                                 <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                                     <span class="thumb-info-wrapper">
-                                                        <img src="img/galeria/galeria3.jpg" class="img-fluid" alt="">
+                                                        <img src="img/galeria/galeria3.jpg" class="img-fluid" alt="Teponapa" title="Teponapa" >
                                                         <span class="thumb-info-action">
                                                             <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                         </span>
@@ -536,7 +542,7 @@
                                             <a href="img/blog/square/blog-23.jpg">
                                                 <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                                     <span class="thumb-info-wrapper">
-                                                        <img src="img/galeria/galeria4.jpg" class="img-fluid" alt="">
+                                                        <img src="img/galeria/galeria4.jpg" class="img-fluid" alt="Teponapa" title="Teponapa Santa Maria Papalo" >
                                                         <span class="thumb-info-action">
                                                             <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                         </span>
@@ -548,7 +554,7 @@
                                             <a href="img/galeria/5.jpg">
                                                 <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                                     <span class="thumb-info-wrapper">
-                                                        <img src="img/galeria/galeria5.jpg" class="img-fluid" alt="">
+                                                        <img src="img/galeria/galeria5.jpg" class="img-fluid" alt="Teponapa" title="Teponapa Santa Maria Papalo">
                                                         <span class="thumb-info-action">
                                                             <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                         </span>
@@ -560,7 +566,7 @@
                                             <a href="img/galeria/6.jpg">
                                                 <span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
                                                     <span class="thumb-info-wrapper">
-                                                        <img src="img/galeria/galeria6.jpg" class="img-fluid" alt="">
+                                                        <img src="img/galeria/galeria6.jpg" class="img-fluid" alt="Teponapa" title="Teponapa Santa Maria Papalo">
                                                         <span class="thumb-info-action">
                                                             <span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
                                                         </span>
@@ -626,7 +632,7 @@
 
         </div>
 
-        <section class="section section-height-3 bg-light border-0 m-0">
+        {{-- <section class="section section-height-3 bg-light border-0 m-0">
             <div class="container">
                 <div class="row">
                     <div class="col">
@@ -659,7 +665,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <section class="bg-color-grey-scale-1 call-to-action call-to-action-default no-top-arrow content-align-center call-to-action-in-footer mt-0">
             <div class="container">
